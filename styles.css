@@ -63,9 +63,9 @@ button {
 }
 
 .btn-clear{
-   background: green;
+   background: red;
 }
 
 .btn-equal{
-   background: red;
+   background: green;
 }
